@@ -1,3 +1,3 @@
 # R-play
 
-My R playgtound
+My R playground
